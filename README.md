@@ -2,7 +2,9 @@
 This repository holds the source code for Assignment 1, which is divided into three distinct parts. Each part of the assignment has been implemented in its own Jupyter Notebook and can be accessed via the links provided below.
 
 Deep vs. Shallow:https://github.com/SarojArchana/CPSC-8430-Deep-Learning/blob/main/HW1/Archana_HW1_1_1_SimFunc1_and_MNIST.ipynb
+
 Optimization:https://github.com/SarojArchana/CPSC-8430-Deep-Learning/blob/main/HW1/Archana_HW1_1_2_Visualize_the_Optimization_Process.ipynb
+
 Generalization:https://github.com/SarojArchana/CPSC-8430-Deep-Learning/blob/main/HW1/Archana_HW1_1_3_Generalization.ipynb
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
