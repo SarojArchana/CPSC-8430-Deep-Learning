@@ -23,6 +23,9 @@ Running the Tests
 To run the tests, simply execute the cells in the .ipynb file. The code will automatically download the MNIST dataset and train the neural network models.
 
 Built With
+
 PyTorch - The deep learning framework used
+
 Jupyter Notebook - The platform for developing and presenting the code
-Author-Archana Saroj
+
+Author-**Archana Saroj**
