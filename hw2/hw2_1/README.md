@@ -5,8 +5,10 @@ This is a code repository for the Video Caption Generation using Sequence-to-Seq
 - `models.py`: This file contains the implementation of the Sequence-to-Sequence Model for video caption generation.
 - `train.py`: This file is used to train the model using video features and corresponding captions.
 - `test.py`: This file is used to generate captions for new videos using the trained model.
+- `run.sh`: shell script to run the model.
 
 ## Testing the Program
+
 
 To test the program, please follow these steps:
 
