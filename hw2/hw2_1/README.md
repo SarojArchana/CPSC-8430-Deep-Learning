@@ -33,7 +33,7 @@ To test the program, please follow these instructions carefully:
 
 Please note the following carefully:
 
-You need to change the `data_path`, `model_path`, `pickel_file`, and `test_json` variables in the `Train.py`, `Test.py`, and `model.py` code in order to run the code correctly. I am taking absolute paths to avoid confusion.
+You need to change the `data_path`, `model_path`, `pickel_file`, and `test_json` variables in the `Train.py`, `Test.py`, and `model.py` code in order to run the code correctly. I am taking relative paths to avoid confusion.
 
 
 ## Folder Structure
