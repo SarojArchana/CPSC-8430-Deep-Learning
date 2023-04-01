@@ -1,9 +1,9 @@
-# BERT based model to do Extractive Question Answering
+# BERT-based model to do Extractive Question Answering
 
-This is a code repository for BERT based model to do Extractive Question Answering
+This is a code repository for BERT based model to do Extractive Question Answering.
 
-- `hw3-distilbert-base-model.ipynb`: This file contains the implementation of the BERT based model to do Extractive Question Answering with no performance improvement method.
-- `hw3-distilbert-per_improvement-model.ipynb`: This file contains the implementation of the BERT based model to do Extractive Question Answering with  performance improvement methods.
+- `hw3-distilbert-base-model.ipynb`: This file contains the implementation of the BERT-based model to do Extractive Question Answering with no performance improvement method.
+- `hw3-distilbert-per_improvement-model.ipynb`: This file contains the implementation of the BERT-based model to do Extractive Question Answering with performance improvement methods.
 
 
 # Program Testing Instructions
@@ -14,14 +14,14 @@ This is a code repository for BERT based model to do Extractive Question Answeri
 
 ## Installation
 
-First clone the repository to your local machine.
+First, clone the repository to your local machine.
 
 
 ## Testing
 
 To test the program, please follow these instructions carefully:
 
-1. Run the ipynb file either from scracth or you can use the model provided in the "Model" folder.
+1. Run the ipynb file from scratch or use the model provided in the "Model" folder.
 
 
 ## Folder Structure
