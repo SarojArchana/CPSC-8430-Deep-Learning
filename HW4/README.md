@@ -21,7 +21,7 @@ First, clone the repository to your local machine.
 
 To test the program, please follow these instructions carefully:
 
-1. Run the ipynb file from scratch or use the model provided in the "Model" folder.
+1. Run the ipynb file from scratch.
 
 ## Author
 
